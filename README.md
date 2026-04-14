@@ -1,4 +1,4 @@
-# Faith Ahewa - Software Developer Portfolio
+# Faith Ahebwa - Software Developer Portfolio
 
 A modern, responsive, and animated portfolio website showcasing my work, skills, and experience as a software developer.
 
@@ -104,7 +104,7 @@ d:\profile\
 
 ## Getting Started with Backend (Optional)
 
-For actual email delivery without user mail client, consider:
+For actual email delivery without a user mail client, consider:
 - **Formspree** - No-code form backend
 - **SendGrid** - Email API service
 - **Mailgun** - Email delivery platform
@@ -124,11 +124,11 @@ Personal portfolio - feel free to customize and deploy.
 
 ## Contact
 
-- **Email**: faithahewa71@email.com
+- **Email**: faithahewa71@gmail.com
 - **LinkedIn**: linkedin.com/in/faith-ahebwa
 - **GitHub**: github.com/faithful71
 - **Location**: Mbarara, Uganda
 
 ---
 
-**Made with ❤️ | © 2026 Faith Ahewa**
+**Made with ❤️ | © 2026 Faith Ahebwa**
